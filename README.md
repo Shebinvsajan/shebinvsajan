@@ -1,6 +1,6 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)]
 <h1 align="center">Hi 👋, I'm SHEBIN V SAJAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">MERN STACK developer from India</h3>
 
 <p align="left"> <img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" /> </p>
 
